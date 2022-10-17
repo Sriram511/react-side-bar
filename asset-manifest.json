@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-side-bar/static/css/main.fd6485db.css",
+    "main.js": "/react-side-bar/static/js/main.72c71d72.js",
+    "index.html": "/react-side-bar/index.html",
+    "main.fd6485db.css.map": "/react-side-bar/static/css/main.fd6485db.css.map",
+    "main.72c71d72.js.map": "/react-side-bar/static/js/main.72c71d72.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd6485db.css",
+    "static/js/main.72c71d72.js"
+  ]
+}
